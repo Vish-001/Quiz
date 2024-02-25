@@ -1,2 +1,2 @@
 # Quiz
-Quiz game usinf OOP Java
+Quiz game using OOP Java
