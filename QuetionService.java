@@ -14,6 +14,7 @@ public class QuetionService
    void displayQuetions()
    {
       int i=0;
+      
       for(Quetion p:quetion)
       {
          System.out.print("que no:" +p.getId());
@@ -27,6 +28,7 @@ public class QuetionService
    }
    void Printscore()
    {
+      // To calulate score
       int score=0;
       for(int i=0;i<3;i++)
       {
