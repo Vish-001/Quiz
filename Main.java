@@ -5,6 +5,7 @@ public class Main
         // Class Object Creation
         QuetionService service=new QuetionService();
         service.displayQuetions();
+        
         service.Printscore();
     }
 }
