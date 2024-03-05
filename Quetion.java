@@ -63,7 +63,8 @@ public class Quetion
     public String getAnswer() {
         return Answer;
     }
-    public void setAnswer(String answer) {
+    public void setAnswer(String answer) 
+    {
         Answer = answer;
     }
 
