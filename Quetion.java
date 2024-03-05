@@ -13,7 +13,6 @@ public class Quetion
     {
         return "Quetion [id=" + id + ", quetion=" + quetion + ", Option1=" + Option1 + ", Option2=" + Option2
                 + ", Option3=" + Option3 + ", Option4=" + Option4 + ", Answer=" + Answer + "]";
-        
     }
     public Quetion(int id, String quetion, String option1, String option2, String option3, String option4,
             String answer) {
