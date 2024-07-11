@@ -24,15 +24,18 @@ public class Quetion
         Option4 = option4;
         Answer = answer;
     }
-    public int getId() {
+    public int getId()
+    {
         return id;
     }
-    public void setId(int id) {
+    public void setId(int id)
+    {
         this.id = id;
     }
     public String getQuetion() {
         return quetion;
     }
+    
     public void setQuetion(String quetion) {
         this.quetion = quetion;
     }
