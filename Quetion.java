@@ -2,7 +2,9 @@ public class Quetion
 {
     private int id;
     private String quetion;
+    
     private String Option1;
+    
     private String Option2;
     private String Option3;
     private String Option4;
